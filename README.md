@@ -25,5 +25,5 @@ This Python application comprises a server and a client for transmitting and sto
 - **Download(1) <file_name>**: Uploads a file to the server.
 - **Upload(2) <file_number> from the list**: Downloads a file from the server.
 
-*Note: "(1)" if user enters this number, it will allow the user to sign-in. / if user enters this number after log-in, new socket will be open and it will allow the user to download.   
-*Note: "(2)" if user enters this number, it will allow the user to log-in. / if user enters this number after log-in, new socket will be open and it will allow the user to upload. 
+*Note: "(1)" if the user enters this number, it will allow the user to sign-in. / if user enters this number after log-in, new socket will be open and it will allow the user to download.   
+*Note: "(2)" if the user enters this number, it will allow the user to log-in. / if user enters this number after log-in, new socket will be open and it will allow the user to upload. 
